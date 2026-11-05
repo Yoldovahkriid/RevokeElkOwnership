@@ -1,0 +1,15 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "revokeelkownership",
+    "name": "Revoke Elk Ownership",
+    "authors": [
+        "Yoldovahkriid"
+    ],
+    "description": "Simple utility mod to remove medaillions of claimed elks while in creative mode",
+    "version": "1.0.0",
+    "side": "Server",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RevokeElkOwnership/RevokeElkOwnership/RevokeElkOwnership.csproj" />
+  <Project Path="RevokeElkOwnership/ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
